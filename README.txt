@@ -39,3 +39,11 @@ El progreso se guarda en el almacenamiento local del navegador/dispositivo. Si a
 NOTA SOBRE EL CONTENIDO
 -----------------------
 Los resúmenes y esquemas son materiales auxiliares de repaso elaborados a partir de los documentos facilitados. El PDF original de cada tema permanece disponible íntegro en la pestaña “Temario completo”. Para cifras, plazos, artículos y normativa vigente, contrasta siempre con el documento y las fuentes oficiales actualizadas.
+
+
+ACTUALIZACION DE ESQUEMAS - NOVIEMBRE 2026
+Se incorpora un sistema de estudio en tres niveles para los 12 temas: Nivel 1 (mapa general), Nivel 2 (esquema desarrollado desplegable) y Nivel 3 (claves de memorizacion y diferencias). Los esquemas se han elaborado tomando como base los indices y contenidos de los 12 PDF incluidos. Para datos normativos, cifras y procedimientos concretos, consulta siempre el documento original.
+
+
+ACTUALIZACION DE CONTENIDO - NOVIEMBRE 2026
+Se incorpora deep-content.js con resúmenes desarrollados y esquemas de tres niveles para los 12 temas. El apartado Resumen muestra desarrollo por epígrafes y claves de estudio. El apartado Esquema ofrece mapa general, esquema desplegable por apartados y claves de memorización. Se incrementa la caché a aula-t5-v4.
